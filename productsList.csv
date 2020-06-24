@@ -1,0 +1,14 @@
+Name,sku,price,qty,image,Desc,attribute_value_id,brand_id,category_id,storeName,status
+Sky WP,DP0008,150,10,,,,,,Main,regular
+Space WP,DP0009,150,8,,,,,,Main,regular
+Tech WP,DP0010,150,10,,,,,,Main,regular
+Artsy WP,DP0011,200,7,,,,,,Main,regular
+Birds WP,DP0012,200,4,,,,,,Main,regular
+Feather Notebook,DP0013,20,11,,,,,,Main,regular
+Renaissance Notebook,DP0014,20,8,,,,,,Main,regular
+Tech Notebook,DP0015,20,15,,,,,,Main,regular
+Fruits Basket Notebook,DP0016,20,5,,,,,,Main,regular
+Calligraphy Pen,DP0017,100,10,,,,,,Main,regular
+Ballpoint Pen,DP0018,4,100,,,,,,Main,regular
+Pen Organizer,DP0019,25,10,,,,,,Main,regular
+Office Sheet Pad,DP0020,15,25,,,,,,Main,regular

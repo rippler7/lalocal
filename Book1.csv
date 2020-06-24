@@ -1,0 +1,14 @@
+name,sku,price,qty,image,description,attribute_value_id,brand_id,category_id,store_id,availability
+Sky WP,DP0008,150,10,"""""","""""",[],[],[],[],Regular
+Space WP,DP0009,150,8,"""""","""""",[],[],[],[],Regular
+Tech WP,DP0010,150,10,"""""","""""",[],[],[],[],Regular
+Artsy WP,DP0011,200,7,"""""","""""",[],[],[],[],Regular
+Birds WP,DP0012,200,4,"""""","""""",[],[],[],[],Regular
+Feather Notebook,DP0013,20,11,"""""","""""",[],[],[],[],Regular
+Renaissance Notebook,DP0014,20,8,"""""","""""",[],[],[],[],Regular
+Tech Notebook,DP0015,20,15,"""""","""""",[],[],[],[],Regular
+Fruits Basket Notebook,DP0016,20,5,"""""","""""",[],[],[],[],Regular
+Calligraphy Pen,DP0017,100,10,"""""","""""",[],[],[],[],Regular
+Ballpoint Pen,DP0018,4,100,"""""","""""",[],[],[],[],Regular
+Pen Organizer,DP0019,25,10,"""""","""""",[],[],[],[],Regular
+Office Sheet Pad,DP0020,15,25,"""""","""""",[],[],[],[],Regular

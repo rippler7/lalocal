@@ -1,0 +1,2 @@
+Name,sku,price,qty,image,Desc,attribute_value_id,brand_id,category_id,storeName,status
+Test Item,DP00021,250,10,,,,,,Main,sold out

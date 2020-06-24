@@ -1,0 +1,19 @@
+{
+  "name": "inventory_lalocal",
+  "version": "1.0.0",
+  "description": "inventory system POS example with CodeIgniter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rippler7/lalocal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rippler7/lalocal/issues"
+  },
+  "homepage": "https://github.com/rippler7/lalocal#readme"
+}

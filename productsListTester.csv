@@ -1,0 +1,3 @@
+Name,sku,price,qty,image,Desc,attribute_value_id,brand_id,category_id,storeName,status
+Test Item 4,DP0024,250,10,https://palominobrands.com/wp-content/uploads/2012/03/PR_Palomino_10928_Final.jpg,,,,,Main,regular
+Test Item 5,DP0025,250,10,https://cdn.shopify.com/s/files/1/2026/1775/products/OUR-STORY-BEGINS-Blue-House-Series-Notebook-Color-Hardcover-Notebook-32K-A5-Fresh-Beautiful-1PCS.jpg,,,,,Main,regular
